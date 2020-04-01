@@ -6,5 +6,6 @@ Some resources that I'm looking at:
 - [vue with typescript](https://blog.logrocket.com/how-to-write-a-vue-js-app-completely-in-typescript/)
 - [Using typescript with vue](https://alligator.io/vuejs/using-typescript-with-vue/)
 - and of course the [vue.js website](https://vuejs.org/v2/guide/installation.html)
+- tutorial on vue + webpack from 2018 [tut link](https://itnext.io/vuejs-and-webpack-4-from-scratch-part-1-94c9c28a534a)
 
 My goal is to build the Vue.js from scratch, and use a bundler like webpack 4 or something else. 
